@@ -11,3 +11,14 @@
 
 部门管理：部门id，部门名称，部门描述，部门人员  
 手机产品信息：手机id，型号，成本，剩余数量  
+
+# 展示效果图
+![管理员初始界面](https://github.com/user-attachments/assets/55ad3e39-f8a0-41df-9549-55716e476ab4)  
+
+
+![管理员增添请假界面](https://github.com/user-attachments/assets/f0213990-d320-4a1f-a299-4b63327e7c88)  
+
+
+![管理员成功登录界面](https://github.com/user-attachments/assets/d9761601-868f-4dae-af45-f82c5fe67c6a)  
+
+
